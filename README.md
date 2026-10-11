@@ -9,11 +9,6 @@ This is a datapack I've made as a comission for Choco.
 
 This datapack adds a craftable ghast fireball which can be launched by the player oupon right click. It damage and create fire on impact but won't break blocks.
 
-
-# 🫂Credits
-- This project is built on [Flare](https://flare.oguzhanumutlu.com/), a powerful pre-compiler for mcfunction, made by [Oguzhan Umutlu](https://github.com/OguzhanUmutlu) together with the [beet](https://mcbeet.dev/) toolchain. Go check them out!
-- Shout out to [Efou](https://discord.gg/jyRZ8jgQMz "Checkout his discord server!") for the video showcase and for being a regular commission partner!
-
 # ✨Commissions
 Want to bring your datapack idea to life but don't know where to start? Feel free to send an email to [support@theblackswitch.com](mailto:support@theblackswitch.com), reach out to me on [GitHub](https://github.com/Theblackswitch-s-Commissions/.github/issues/new?template=commission.yaml) or message me on discord under the name ``theblackswitch``. I'll code your comission for a low price calculating €1 an hour with a minimum of €10.
 
