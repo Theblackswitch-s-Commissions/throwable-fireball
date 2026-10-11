@@ -1,0 +1,48 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        "blaze_powder",
+        "#coals",
+        "breeze_rod",
+        "ghast_tear"
+    ],
+    "result": {
+        "id": "snowball",
+        "components": {
+            "item_model": "minecraft:fire_charge",
+            "enchantment_glint_override": true,
+            "tooltip_display": {
+                "hidden_components": [
+                    "attribute_modifiers"
+                ]
+            },
+            "use_cooldown": {
+                "seconds": 2,
+                "cooldown_group": "gfb:ghast_fireball"
+            },
+            "custom_data": {
+                "ghast_fireball": true
+            },
+            "item_name": {
+                "text": "Ghast Fireball",
+                "color": "white",
+                "italic": false
+            },
+            "lore": [
+                {
+                    "text": "A throwable fireball",
+                    "color": "gold",
+                    "italic": false
+                },
+                {
+                    "text": " "
+                },
+                {
+                    "text": "Damages and creates fire on impact",
+                    "color": "green",
+                    "italic": false
+                }
+            ]
+        }
+    }
+}

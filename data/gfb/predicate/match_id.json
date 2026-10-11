@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:entity_scores",
+	"entity": "this",
+	"scores": {
+		"gfb.ID": {
+			"type": "minecraft:score",
+			"target": {
+				"type": "minecraft:fixed",
+				"name": "#search"
+			},
+			"score": "gfb.ID",
+			"fallback": -1
+		}
+	}
+}

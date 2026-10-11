@@ -1,0 +1,1 @@
+execute if block ~ ~ ~ air if predicate gfb:random/25 run setblock ~ ~ ~ fire

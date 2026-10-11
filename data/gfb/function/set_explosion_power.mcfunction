@@ -1,0 +1,1 @@
+$scoreboard players set .dash_explosion_power server_data $(power)

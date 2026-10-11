@@ -1,0 +1,1 @@
+$damage @s $(amount) minecraft:fireball by @a[predicate=gfb:match_id,limit=1]

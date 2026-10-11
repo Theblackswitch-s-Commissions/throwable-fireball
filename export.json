@@ -1,0 +1,17 @@
+{
+    "comment": "This file contains the basic data for exporting the datapack file. Run export-dp -h for more info",
+    "export": {
+        "version": "0.0.0a"
+    },
+    "cache": {
+        "rp_source": "",
+        "dp_source": "",
+        "output": "-export",
+        "combine": false
+    },
+    "link": {
+        "enabled": false,
+        "folders": []
+    },
+    "hashes": []
+}

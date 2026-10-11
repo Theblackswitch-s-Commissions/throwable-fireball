@@ -1,0 +1,23 @@
+{
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"items": [
+							"minecraft:ghast_tear",
+							"minecraft:blaze_powder",
+							"minecraft:breeze_rod"
+						]
+					}
+				]
+			}
+		}
+	},
+	"rewards": {
+		"recipes": [
+			"gfb:ghast_fireball"
+		]
+	}
+}
